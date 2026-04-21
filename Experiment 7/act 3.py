@@ -2,7 +2,7 @@
 """
 Created on Mon Apr 13 15:33:28 2026
 
-@author: Nikhil Nikam
+@author: Sourav Londhe
 """
 
 class Student:
